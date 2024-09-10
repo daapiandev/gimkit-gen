@@ -21,6 +21,7 @@ proxy http/https support🔥
 
 
 
+![{3B435FAE-A5BC-44E0-9ABA-539061862716}](https://github.com/user-attachments/assets/3f47279a-c864-4ad6-9c3e-7be5b87b5752)
 
 
 
