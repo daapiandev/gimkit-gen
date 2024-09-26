@@ -116,8 +116,8 @@ def send_reqs(code, resend_times, use_proxies):
                                 print(Fore.GREEN + f"[+]connected ({random_name})")
 
 code = input("Enter the code: ")
-resend_times = int(input("How many times to resend the requests? "))
-threads_count = int(input("How many threads to send the requests with? "))
+resend_times = int(input("How many bots: "))
+threads_count = int(input("How many threads: "))
 use_proxies = input("Use proxies? (y/n): ").strip().lower() == 'y'
 
 threads = []
