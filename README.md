@@ -12,6 +12,8 @@ fast🔥
 
 proxy http/https support🔥
 
+joiner added🔥
+
 
 # picture/video
 
@@ -35,10 +37,16 @@ educator:
 ![{F43A282B-1E9B-4E06-916D-F8B99743F79B}](https://github.com/user-attachments/assets/6d1024cc-e2e4-4a65-9268-5a6f8e20dd32)
 
 
+(i suggest using good proxies)  joiner:
+
+
+
+
+
 
 
 # extra
 
-5 stars= gimkit flooder⭐ (working on this!)
+✅5 stars= gimkit flooder⭐ 
 
-10 stars= gimkit AIO⭐
+❌10 stars= gimkit AIO⭐
