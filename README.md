@@ -12,7 +12,7 @@ fast🔥
 
 proxy http/https support🔥
 
-joiner added🔥
+joiner patched fix later
 
 
 # picture/video
